@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Narayana%20Gowda%20G&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Narayana%20Gowda%20G&fontSize=60&fontColor=FFFACD&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFACD&descAlignY=65" width="100%"/>
 
 
 ## 📌 About Me
